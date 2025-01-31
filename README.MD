@@ -3,15 +3,9 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
 <img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
+    src="https://github.com/Camilan82/prompts-recipe-to-create-a-ebook/blob/main/assets/pessoas%20lendo.jpg"
+    width="400"
 </a>
 </p>
 
