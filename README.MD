@@ -1,6 +1,5 @@
 </https://github.com/Camilan82/prompts-for-podcast-generate-by-ia/blob/main/assets/podcaster.jpg"
-    width="300"
-/>
+   />
 </p>
 
 <p align="center">
