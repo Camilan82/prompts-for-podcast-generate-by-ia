@@ -105,6 +105,7 @@ o formato do roteiro deve ser
 - Clipchamp para tratar aúdio e adicionar sons de fundo
 
 ## 🚨 CLIQUE AQUI PARA ACESSAR O MEU PODCAST
+Depois clique em ´´View raw´´
 
 - [Link do PodcastConcluído](https://github.com/Camilan82/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast_Camila_VF.mp4)
 
