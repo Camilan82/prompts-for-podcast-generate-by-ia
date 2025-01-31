@@ -1,10 +1,6 @@
 <p align="center">
-    <img width="100" src="https://github.com/Camilan82/prompts-recipe-to-create-a-ebook/blob/main/assets/pessoas%20lendo.jpg">
-</p>
-
-<p align="center">
 <img 
-    src="https://github.com/Camilan82/prompts-recipe-to-create-a-ebook/blob/main/assets/pessoas%20lendo.jpg"
+    src="https://github.com/Camilan82/prompts-for-podcast-generate-by-ia/blob/main/assets/podcaster.jpg"
     width="400"
 </a>
 </p>
