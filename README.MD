@@ -106,7 +106,7 @@ o formato do roteiro deve ser
 
 ## 📚 Materiais
 
-- [Link do PodcastConcluído](https://github.com/Camilan82/prompts-for-podcast-generate-by-ia/blob/main/output/Visualizador%20de%20%C3%A1udio%20para%20podcast%20com%20fundo%20b%C3%A1sico%20%20%E2%80%90%20Feito%20com%20o%20Clipchamp.mp4)
+- [Link do PodcastConcluído](https://github.com/Camilan82/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast_Camila_VF.mp4)
 
 ## 🛠️ Instruções de execução
 
