@@ -104,7 +104,7 @@ o formato do roteiro deve ser
 - LeonardoAI Para gerar capas
 - Clipchamp para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+## 🚨 CLIQUE AQUI PARA ACESSAR O MEU PODCAST
 
 - [Link do PodcastConcluído](https://github.com/Camilan82/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast_Camila_VF.mp4)
 
